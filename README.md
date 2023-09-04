@@ -40,7 +40,7 @@
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/steven.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是Daniel。</p>
 <p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
@@ -62,7 +62,7 @@
   - 工作岗位：Web前端开发工程师（初级）
   - 工作内容：GIS相关
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/nio.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/nio.png" />
 
 - [蔚来汽车科技（深圳）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
   
@@ -77,7 +77,7 @@
 <!-- 近期博客 -->
 ### 📃 Recent Blog
   
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/astronaut.png" />
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.sunguoqi.com/archives/ohmyposh' target='_blank'>Oh My Posh | Windows Terminal 美化指南</a> - 2023-07-15
@@ -93,7 +93,7 @@
 
 ### 🧠 Second Brain
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/technologist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/technologist.png" />
 
 <!-- START_SECTION:brain -->
 * <a href='https://brain.sunguoqi.com/web/html/html.html' target='_blank'>HTML</a> - 2023-08-20
@@ -109,7 +109,7 @@
 
 ### 🤾‍♂️ Funny Soul
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/artist.png" />
+<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/artist.png" />
 
 <!-- START_SECTION:douban -->
 * <a href='https://book.douban.com/subject/35193035/' target='_blank'>最近在读认知觉醒</a> 🌟🌟🌟🌟🌟 力荐- 2023-04-17
@@ -187,7 +187,7 @@ No Activity Tracked This Week
 </table>
 
 <!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/hr.gif" />
 
 <div align="center" >
 
@@ -202,7 +202,6 @@ mindmap
       风光
     旅行
       广州
-      铜川
       西安
       Lima
       Dar es Salaam
@@ -216,7 +215,7 @@ mindmap
 ```
 
 <!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
+<img src="https://cdn.jsdelivr.net/gh/铜川/assets/images/man.png" alt="Man Lifting Weights" width="250" height="250" />
 
 <!--  skill badge 技能徽章 -->
 💪 正在学习
