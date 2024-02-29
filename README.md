@@ -345,7 +345,4 @@ e&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg
 
 <!-- GitHub metrics 信息指标 -->
 
-
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/rocket.png"/>
 </div>
