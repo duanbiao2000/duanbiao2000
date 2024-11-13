@@ -125,8 +125,7 @@
 
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
-[![Danny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)
+[![Danny's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000)
 
 <picture>
   <source
