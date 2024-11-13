@@ -303,7 +303,17 @@ mindmap
 <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
 <!-- GitHub 数据统计 -->
-e&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /><br><br>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
+</picture>
 
 <!-- Awesome repo 比较好的仓库-->
   
@@ -314,7 +324,7 @@ e&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg
     <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
   </tr>
   <tr>
-    <td colspan="2"><a href="https://run.sunguoqi.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/running/assets/github_2023.svg" /></a><br></td>
+    <td colspan="2"><a href="https://run.duanbiao2000.com"><img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/running/assets/github_2023.svg" /></a><br></td>
   </tr>
 </table>
 </div>
