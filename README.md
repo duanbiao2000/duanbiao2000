@@ -10,8 +10,8 @@
   <!-- knock code pictures 敲代码的图片 -->
   <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/coding.gif" /><br>
 
-    <!-- visitor statistics logo 访问量统计徽标 -->
-    <img src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
+  <!-- visitor statistics logo 访问量统计徽标 -->
+  <img src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 
