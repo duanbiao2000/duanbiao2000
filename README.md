@@ -41,15 +41,15 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
-[![Book's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000)]
+![Book's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000)
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/wakatimeusername=duanbiao2000&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/wakatimeusername=duanbiao2000&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8" />
@@ -151,11 +151,11 @@
 <!-- GitHub 数据统计 -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
