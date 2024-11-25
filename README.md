@@ -5,6 +5,7 @@
 
 
 <!-- GitHub 数据统计 -->
+<div align="center" >
 <table>
 <tr><td>
 
@@ -31,7 +32,7 @@
   </a>
   </td> </tr>
 </table>
-
+</div>
 
 #  🙋 Hello
 
