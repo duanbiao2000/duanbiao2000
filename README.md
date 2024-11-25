@@ -6,7 +6,7 @@
 
 <!-- GitHub 数据统计 -->
 <div align="center" >
-<table>
+
 <tr align="center"><td>
 
 <picture>
@@ -24,7 +24,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
 
-</table>
+
 </div>
 
 #  🙋 Hello
