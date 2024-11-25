@@ -1,4 +1,4 @@
-<div align="right">
+<div align="center">
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
@@ -17,12 +17,14 @@
 </picture>
 
 <!-- Awesome repo 比较好的仓库-->
+<dir>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
 </a>
+<dir>
 
 </div>
 
