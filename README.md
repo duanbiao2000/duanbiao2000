@@ -7,12 +7,9 @@
 <!-- GitHub 数据统计 -->
 <table>
 <tr><td>
-<picture >
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark#gh-dark-mode-only"
-  />
+
   <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
-</picture>
+
 </td> </tr>
 <!-- Awesome repo 比较好的仓库-->
 <tr><td>
