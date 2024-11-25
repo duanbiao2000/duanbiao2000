@@ -1,19 +1,28 @@
-<div align="center">
-  
-  <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);丹尼同学祝您今天愉快!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-
-  <!-- knock code pictures 敲代码的图片 -->
-  <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/coding.gif" /><br>
-
+<div align="right">
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
+<!-- GitHub 数据统计 -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
+</picture>
+
+<!-- Awesome repo 比较好的仓库-->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 </div>
 
@@ -43,14 +52,14 @@
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=4"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=6"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=4"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true&langs_count=6"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=4" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=6" />
 </picture>
 
 
@@ -146,20 +155,7 @@
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- GitHub 数据统计 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
-</picture>
 
-<!-- Awesome repo 比较好的仓库-->
   
 
 
