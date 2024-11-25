@@ -7,7 +7,7 @@
 <!-- GitHub 数据统计 -->
 <div align="center" >
 <table>
-<tr><td style="text-align: center; vertical-align: middle;">
+<tr align="center"><td>
 
 <picture>
   <source
@@ -23,7 +23,7 @@
 
 </td> </tr>
 <!-- Awesome repo 比较好的仓库-->
-<tr><td style="text-align: center; vertical-align: middle;">
+<tr align="center"><td>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
   </a>
