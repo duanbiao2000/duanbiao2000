@@ -41,6 +41,8 @@
 <!-- wakatime 统计 -->
 ### 📊 WakaTime
 
+[![Book's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000)]
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=8"
@@ -141,8 +143,7 @@
 <!-- Github-Stats-Terminal 终端风格信息 -->
 <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/Github-Stats-Terminal@latest/github_stats.svg"/><br>
   
-<!-- Quotes 名人名言 -->
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br>
+
   
 <!-- GitHub 奖杯🏆 -->
 <img  src="https://github-profile-trophy.vercel.app/?username=sun0225SUN&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
@@ -150,11 +151,11 @@
 <!-- GitHub 数据统计 -->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true" />
@@ -162,14 +163,7 @@
 
 <!-- Awesome repo 比较好的仓库-->
   
-<!-- Wakatime Graph-->
-<table>
-  <tr>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/d07b5f65-d3e1-4896-897c-1695c560a7dc.svg" width="500" alt="Wakatime"/></td>
-    <td><img src="https://wakatime.com/share/@42d0678c-368b-448b-9a77-5d21c5b55352/39a6f115-6058-44ce-95da-c3b2cbc9e831.svg" width="500" alt="Wakatime"/></td>
-  </tr>
-</table>
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/hr.gif" />
