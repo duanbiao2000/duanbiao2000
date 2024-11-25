@@ -6,7 +6,7 @@
 
 <!-- GitHub 数据统计 -->
 
-<picture">
+<picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark#gh-dark-mode-only"
   />
