@@ -1,10 +1,10 @@
-<div align="center">
+<div align="right">
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
 
 <!-- GitHub 数据统计 -->
-<picture>
+<picture align="center">
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
@@ -17,12 +17,12 @@
 </picture>
 
 <!-- Awesome repo 比较好的仓库-->
-<dir>
+<dir align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat&theme=dark" />
 </a>
 <dir>
 
