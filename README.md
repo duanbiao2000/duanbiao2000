@@ -58,7 +58,7 @@
     srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
 
@@ -74,11 +74,9 @@
     srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+
 </picture>
-
-
-
 
 
 <!-- Awesome repo 比较好的仓库-->
