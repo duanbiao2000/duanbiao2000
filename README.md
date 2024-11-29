@@ -61,10 +61,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
 </picture>
 
-
+</div>
 
 <!-- daily quote -->
-
+<div align=center>
 <picture>
   <source
     srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture&theme=dark"
@@ -187,7 +187,7 @@
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
 <!-- github-readme-streak-stats 连续提交代码天数记录 -->
-
+<div><img src="https://streak-stats.demolab.com?user=duanbiao2000&theme=transparent" alt="GitHub Streak" /></div>
 
 <!-- metrics 基础资料 -->
 
