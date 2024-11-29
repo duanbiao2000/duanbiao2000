@@ -1,28 +1,10 @@
-<div align="center" >
+<div >
   <!-- visitor statistics logo 访问量统计徽标 -->
   <img align="right" src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 
 
 
-<!-- GitHub 数据统计 -->
 
-
-<tr align="center"><td>
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-
-<!-- Awesome repo 比较好的仓库-->
 
 
 </div>
@@ -61,13 +43,30 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=6" />
 </picture>
-
-<!-- daily quote -->
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
-
- 
 </td></tr>
 </table>
+<div align=center>
+ <!-- GitHub 数据统计 -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
+
+<!-- daily quote -->
+ <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+
+</div>
+<!-- Awesome repo 比较好的仓库-->
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/hr.gif" />
