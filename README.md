@@ -45,6 +45,8 @@
 </picture>
 </td></tr>
 </table>
+
+
 <div align=center>
  <!-- GitHub 数据统计 -->
 <picture>
@@ -64,8 +66,12 @@
 <!-- daily quote -->
  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
 
-</div>
+
+
+
 <!-- Awesome repo 比较好的仓库-->
+
+</div>
 
 
 <!-- ########################################## 分割 ########################################## -->
