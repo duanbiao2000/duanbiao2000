@@ -64,7 +64,19 @@
 
 
 <!-- daily quote -->
- <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+
+<picture>
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img width="50%" src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+</picture>
+
 
 
 
