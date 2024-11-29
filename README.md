@@ -47,41 +47,7 @@
 </table>
 
 
-<div align=center>
- <!-- GitHub 数据统计 -->
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
-</picture>
-
-</div>
-
-<!-- daily quote -->
-<div align=center>
-<picture>
-  <source
-    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
-
-</picture>
-
-
-<!-- Awesome repo 比较好的仓库-->
-
-</div>
+                                     
 
 
 
@@ -110,6 +76,39 @@
 <div align="center">
 
 
+ <!-- GitHub 数据统计 -->
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=duanbiao2000&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
+
+<!-- daily quote -->
+<div align=center>
+<picture>
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img  src="https://quotes-github-readme.vercel.app/api?type=horizontal&boarder=ture" />
+
+</picture>
+
+
+<!-- Awesome repo 比较好的仓库-->
+
 <!-- Joke 笑话 -->
 <div><img src="https://readme-jokes.vercel.app/api?hideBorder&bgColor=%23121212" alt="Jokes Card" /></div>
 
@@ -118,10 +117,11 @@
 
 <!-- metrics 基础资料 -->
 
-<!-- GitHub Activity Graph GitHub 活动图 -->
+<!-- GitHub Activity Graph GitHub 活动图 -->                                   
+<div><img src="https://github-readme-activity-graph.vercel.app/graph?username=duanbiao2000&theme=vue&grid=false&hide_border=true&hide_title=true&height=300&bg_color=FFFFFF00" alt="GitHub Activity Graph" /></div>
 
 
-</div>
+
 
 <!-- ########################################## 分割 ########################################## -->
 <img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/hr.gif" />
