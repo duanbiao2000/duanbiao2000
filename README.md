@@ -43,7 +43,9 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=duanbiao2000\&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true&langs_count=6" />
 </picture>
-</td></tr>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=duanbiao2000&show_icons=true&locale=en&layout=compact&bg_color=00000000&hide_border=true" alt="duanbiao2000" />
+  </td></tr>
 </table>
 
 
