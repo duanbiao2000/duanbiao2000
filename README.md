@@ -20,9 +20,9 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/steven.png" />
 
 <p>&emsp;&emsp;大家好，我是Daniel。</p>
-<p>&emsp;&emsp;热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</p>
+<p>&emsp;&emsp;爱好编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;目前从事AI算法与软件研发，希望在这里能结识更多项目贡献者。</p>
+<p>&emsp;&emsp;We're making the world a better place. </p>
 
 </td></tr>
 
