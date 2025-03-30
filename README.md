@@ -21,7 +21,7 @@
 
 <p>&emsp;&emsp;大家好，我是Daniel。</p>
 <p>&emsp;&emsp;爱好编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;目前从事AI算法与软件研发，希望在这里能结识更多项目贡献者。</p>
+<p>&emsp;&emsp;目前从事AI算法与软件研发，希望结识更多项目贡献者。</p>
 <p>&emsp;&emsp;We're making the world a better place. </p>
 
 </td></tr>
