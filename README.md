@@ -50,7 +50,7 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
+<p>&emsp;&emsp;嗨，你好，我是段同学。热爱编程、摄影、读书、旅行。</p>
 <p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
 <p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
@@ -61,28 +61,7 @@
 
 ### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/yuanze.png" />
 
-- [北京原则科技有限公司](https://lusun.com/) &emsp; 📌 2024-03-04 —— 2024-08-28
-
-  - 工作岗位：软件研发工程师
-  - 工作内容：软件开发与维护
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/tuhui.png" />
-
-- [广州图慧信息科技有限公司](https://www.tuhuimap.com/) &emsp; 📌 2023-06-19 —— 2024-01-19
-
-  - 工作岗位：Web 前端开发工程师
-  - 工作内容：一些杂活
-
-<img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/nio.png" />
-
-- [蔚来汽车科技（安徽）有限公司](https://www.nio.cn/) &emsp; 📌 2023-02-20 —— 2023-05-12
-
-  - 工作岗位：Web 前端开发实习生
-  - 工作内容：参与一站式数据治理与研发平台 DataSight 的开发与维护工作
-
-</td></tr>
 
 <tr><td>
 
@@ -91,11 +70,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/astronaut.png" />
 
 <!-- feed start -->
-- Mar 18 - [昆仑巢「疯狂星期六」，没有人是一座孤岛～](https://blog.guoqi.dev/posts/kunlunchao/)
-- Mar 10 - [你好，北京！你好，原则科技！一切都是最好的安排！](https://blog.guoqi.dev/posts/yuanze/)
-- Feb 20 - [行则将至，未来可期，和 2023 好好说声再见吧！](https://blog.guoqi.dev/posts/2023/)
-- Feb 16 - [西藏之旅｜青春没有售价，火车直达拉萨！](https://blog.guoqi.dev/posts/xizang/)
-- Jan 03 - [珠海之旅｜去感受风，去聆听海，去触摸，去抵达](https://blog.guoqi.dev/posts/zhuhai/)
+
 <!-- feed end -->
 
 </td></tr>
