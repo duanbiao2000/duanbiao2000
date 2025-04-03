@@ -1,13 +1,3 @@
-<div >
-  <!-- visitor statistics logo 访问量统计徽标 -->
-  <img align="right" src="https://komarev.com/ghpvc/?username=duanbiao2000&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
-
-
-
-
-
-
-</div>
 
 #  🙋 Hello
 
@@ -48,11 +38,6 @@
   </td></tr>
 </table>
 
-
-                                     
-
-
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/icon.png" /></div>
 
@@ -68,12 +53,7 @@
 <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/Github-Stats-Terminal@latest/github_stats.svg"/><br>
   
 
-  
-<!-- GitHub 奖杯🏆 -->
-<img  src="https://github-profile-trophy.vercel.app/?username=duanbiao2000&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br>
 
-<!-- ########################################## 分割 ########################################## -->
-<img width="200%" src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/hr.gif" />
 
 <div align="center">
 
@@ -118,7 +98,7 @@
 <div><img src="https://streak-stats.demolab.com?user=duanbiao2000&theme=transparent" alt="GitHub Streak" /></div>
 
 <!-- metrics 基础资料 -->
-
+<p align="center"><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
 <!-- GitHub Activity Graph GitHub 活动图 -->                                   
 <div><img src="https://github-readme-activity-graph.vercel.app/graph?username=duanbiao2000&theme=vue&grid=false&hide_border=true&hide_title=true&height=300&bg_color=FFFFFF00" alt="GitHub Activity Graph" /></div>
 
