@@ -193,8 +193,6 @@ Linux                    4 hrs 29 mins       ███████████�
 
 <div align="center" >
 
-<!-- just img 图片 -->
-<img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/mb.png" width="250" height="250" />
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
