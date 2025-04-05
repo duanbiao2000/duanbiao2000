@@ -196,7 +196,7 @@ Linux                    4 hrs 29 mins       ███████████�
 
 <!-- Quotes 名人名言 -->
 <div><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" /><br/></div>
-  
+<br/>  
 <!-- GitHub 奖杯🏆 -->
 <div><img src="https://github-profile-trophy.vercel.app/?username=duanbiao2000&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" /><br/></div>
 
