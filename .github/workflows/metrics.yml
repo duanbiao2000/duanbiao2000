@@ -27,7 +27,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: duabiao2000
+          user: duanbiao2000
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
