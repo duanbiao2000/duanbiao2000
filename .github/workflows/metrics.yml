@@ -19,6 +19,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+      - name: Install latest Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*' # 'lts/*' will install the latest LTS version
       # 基础信息（顺带了几个小插件）
       - name: base
         uses: lowlighter/metrics@master
