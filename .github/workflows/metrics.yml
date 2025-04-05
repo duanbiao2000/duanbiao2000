@@ -13,10 +13,10 @@ on:
 
 
 permissions:
-  contents: read
+  contents: write
   packages: read
   actions: read
-  workflows: read
+  workflows: write
   pull-requests: read
   issues: read
   checks: read
