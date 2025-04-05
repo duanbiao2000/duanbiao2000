@@ -1,6 +1,8 @@
 # 此开源项目地址 https://github.com/lowlighter/metrics
 
 
+
+
 name: GitHub Metrics
 
 on:
@@ -9,11 +11,28 @@ on:
     # https://docs.github.com/zh/actions/using-workflows/events-that-trigger-workflows#schedule
   workflow_dispatch:
 
+
+permissions:
+  contents: read
+  packages: read
+  actions: read
+  workflows: read
+  pull-requests: read
+  issues: read
+  checks: read
+
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    
+
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Docker and jq
+        run: |
+         sudo apt-get update
+         sudo apt-get install -y docker.io j
 
       # 基础信息（顺带了几个小插件）
       - name: base
