@@ -20,6 +20,10 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
+      - name: Install Node.js 16 (Stable)
+        uses: actions/setup-node@v4
+        with:
+          node-version: '16.x' # Specifies the 16.x branch, which will use the latest stable 16.x release   
       - name: Indepth analysis
         uses: lowlighter/metrics@master
         with:
@@ -32,3 +36,5 @@ jobs:
           plugin_languages_details: lines, bytes-size
           plugin_languages_limit: 4
           plugin_languages_analysis_timeout: 15
+
+          
