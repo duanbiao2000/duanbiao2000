@@ -14,12 +14,13 @@ on:
 
 permissions:
   contents: write
-  packages: read
-  actions: read
+  packages: write
+  actions: write
   workflows: write
   pull-requests: read
   issues: read
   checks: read
+  traffic: read
 
 jobs:
   github-metrics:
