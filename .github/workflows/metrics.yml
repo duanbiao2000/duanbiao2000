@@ -1,5 +1,11 @@
 # 此开源项目地址 https://github.com/lowlighter/metrics
 
+
+
+
+
+
+
 name: GitHub Metrics
 
 on:
@@ -11,7 +17,12 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
+    
     steps:
+      - name: Set up dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
       # 基础信息（顺带了几个小插件）
       - name: base
         uses: lowlighter/metrics@latest
@@ -20,7 +31,7 @@ jobs:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
-          user: sun0225SUN
+          user: duanbiao2000
           template: classic
           config_timezone: Asia/Shanghai
           base: "header, activity, community, repositories"
