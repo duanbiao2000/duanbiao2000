@@ -20,7 +20,7 @@
   <!-- profile logo 个人资料徽标 -->
   <div>
     <a href="https://twitter.com/duanbiao2000/"><img src="https://img.shields.io/badge/Twitter-推特-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@duanbiao2000"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
+    <a href="https://www.youtube.com/@iLOGICNOTE"><img src="https://img.shields.io/badge/YouTube-油管-c32136" /></a>&emsp;
     <a href="https://duanbiao2000.com/"><img src="https://img.shields.io/badge/Website-博客-8c36db" /></a>&emsp;
     <a href="https://wechat.guoqi.dev"><img src="https://img.shields.io/badge/WeChat-微信-07c160" /></a>&emsp;
     <a href="https://space.bilibili.com/98835826/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
