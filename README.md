@@ -260,9 +260,6 @@ Windows                  8 hrs 55 mins       ███████████�
   </tr>
 </table>
 
-
-<img width="120%" src="https://repobeats.axiom.co/api/embed/dd42bad8effa7ab44d2f3124414ee110611e044a.svg" />
-
 <!-- just img 图片 -->
 <img src="https://cdn.jsdelivr.net/gh/duanbiao2000/duanbiao2000/assets/images/icon.png" /></div>
 </div>
